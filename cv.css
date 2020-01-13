@@ -7,7 +7,7 @@ body{
     font-family: 'Raleway', sans-serif;
     color: #597434;
 }
-
+/*these are all header styles*/
 header{
     background-color: #F2DBA7;
     text-align: center;
@@ -34,7 +34,7 @@ h3{
     font-size: 30px;
     font-family: 'Satisfy', cursive;
 }
-
+/*this is in relation to general text styles*/
 main{
     max-width: 800px;
     margin-left: 30px;
