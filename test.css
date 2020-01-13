@@ -1,0 +1,12 @@
+h1{
+font-size: 30px;
+color: #FF5733;
+}
+
+.big{
+font-size: 60px;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
