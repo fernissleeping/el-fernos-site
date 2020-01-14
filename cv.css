@@ -25,7 +25,7 @@ h1{
 
 h2{
     color: #FF4365;
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Raleway', sans-serif;
 }
 
@@ -46,6 +46,12 @@ main{
     border-style: ridge;
 }
 
+img{
+    border-style: solid;
+    border-color: #597434;
+    
+}
+
 a{
     color: #FF4365;
 }
@@ -57,4 +63,9 @@ footer{
     text-align: center;
     font-size: 15px;
     color: #F2DBA7;
+}
+
+table{
+    max-width: 60%;
+
 }
